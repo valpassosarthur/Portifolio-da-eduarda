@@ -103,7 +103,7 @@ body{
     border: 0.125rem solid var(--cor-principal);
     width: 50%;
     text-align: center;
-    border-radius: 0.5;
+    border-radius: 15px;
     font-size: 1.25rem;
     padding: 1.375rem;
     text-decoration: none;
